@@ -1,0 +1,12 @@
+C:\Uindson\TI\DotNet_Avançado\ApiPedidos\ApiPedidos.Domain\bin\Debug\net7.0\ApiPedidos.Domain.deps.json
+C:\Uindson\TI\DotNet_Avançado\ApiPedidos\ApiPedidos.Domain\bin\Debug\net7.0\ApiPedidos.Domain.dll
+C:\Uindson\TI\DotNet_Avançado\ApiPedidos\ApiPedidos.Domain\bin\Debug\net7.0\ApiPedidos.Domain.pdb
+C:\Uindson\TI\DotNet_Avançado\ApiPedidos\ApiPedidos.Domain\obj\Debug\net7.0\ApiPedidos.Domain.csproj.AssemblyReference.cache
+C:\Uindson\TI\DotNet_Avançado\ApiPedidos\ApiPedidos.Domain\obj\Debug\net7.0\ApiPedidos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Uindson\TI\DotNet_Avançado\ApiPedidos\ApiPedidos.Domain\obj\Debug\net7.0\ApiPedidos.Domain.AssemblyInfoInputs.cache
+C:\Uindson\TI\DotNet_Avançado\ApiPedidos\ApiPedidos.Domain\obj\Debug\net7.0\ApiPedidos.Domain.AssemblyInfo.cs
+C:\Uindson\TI\DotNet_Avançado\ApiPedidos\ApiPedidos.Domain\obj\Debug\net7.0\ApiPedidos.Domain.csproj.CoreCompileInputs.cache
+C:\Uindson\TI\DotNet_Avançado\ApiPedidos\ApiPedidos.Domain\obj\Debug\net7.0\ApiPedidos.Domain.dll
+C:\Uindson\TI\DotNet_Avançado\ApiPedidos\ApiPedidos.Domain\obj\Debug\net7.0\refint\ApiPedidos.Domain.dll
+C:\Uindson\TI\DotNet_Avançado\ApiPedidos\ApiPedidos.Domain\obj\Debug\net7.0\ApiPedidos.Domain.pdb
+C:\Uindson\TI\DotNet_Avançado\ApiPedidos\ApiPedidos.Domain\obj\Debug\net7.0\ref\ApiPedidos.Domain.dll

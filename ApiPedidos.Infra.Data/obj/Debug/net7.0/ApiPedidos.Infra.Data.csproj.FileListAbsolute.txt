@@ -1,0 +1,15 @@
+C:\Uindson\TI\DotNet_Avançado\ApiPedidos\ApiPedidos.Infra.Data\obj\Debug\net7.0\ApiPedidos.Infra.Data.csproj.AssemblyReference.cache
+C:\Uindson\TI\DotNet_Avançado\ApiPedidos\ApiPedidos.Infra.Data\obj\Debug\net7.0\ApiPedidos.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Uindson\TI\DotNet_Avançado\ApiPedidos\ApiPedidos.Infra.Data\obj\Debug\net7.0\ApiPedidos.Infra.Data.AssemblyInfoInputs.cache
+C:\Uindson\TI\DotNet_Avançado\ApiPedidos\ApiPedidos.Infra.Data\obj\Debug\net7.0\ApiPedidos.Infra.Data.AssemblyInfo.cs
+C:\Uindson\TI\DotNet_Avançado\ApiPedidos\ApiPedidos.Infra.Data\obj\Debug\net7.0\ApiPedidos.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Uindson\TI\DotNet_Avançado\ApiPedidos\ApiPedidos.Infra.Data\bin\Debug\net7.0\ApiPedidos.Infra.Data.deps.json
+C:\Uindson\TI\DotNet_Avançado\ApiPedidos\ApiPedidos.Infra.Data\bin\Debug\net7.0\ApiPedidos.Infra.Data.dll
+C:\Uindson\TI\DotNet_Avançado\ApiPedidos\ApiPedidos.Infra.Data\bin\Debug\net7.0\ApiPedidos.Infra.Data.pdb
+C:\Uindson\TI\DotNet_Avançado\ApiPedidos\ApiPedidos.Infra.Data\bin\Debug\net7.0\ApiPedidos.Domain.dll
+C:\Uindson\TI\DotNet_Avançado\ApiPedidos\ApiPedidos.Infra.Data\bin\Debug\net7.0\ApiPedidos.Domain.pdb
+C:\Uindson\TI\DotNet_Avançado\ApiPedidos\ApiPedidos.Infra.Data\obj\Debug\net7.0\ApiPedidos.Infra.Data.csproj.CopyComplete
+C:\Uindson\TI\DotNet_Avançado\ApiPedidos\ApiPedidos.Infra.Data\obj\Debug\net7.0\ApiPedidos.Infra.Data.dll
+C:\Uindson\TI\DotNet_Avançado\ApiPedidos\ApiPedidos.Infra.Data\obj\Debug\net7.0\refint\ApiPedidos.Infra.Data.dll
+C:\Uindson\TI\DotNet_Avançado\ApiPedidos\ApiPedidos.Infra.Data\obj\Debug\net7.0\ApiPedidos.Infra.Data.pdb
+C:\Uindson\TI\DotNet_Avançado\ApiPedidos\ApiPedidos.Infra.Data\obj\Debug\net7.0\ref\ApiPedidos.Infra.Data.dll

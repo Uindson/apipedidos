@@ -1,0 +1,17 @@
+C:\Uindson\TI\DotNet_Avançado\ApiPedidos\ApiPedidos.Infra.EventBus\bin\Debug\net7.0\ApiPedidos.Infra.EventBus.deps.json
+C:\Uindson\TI\DotNet_Avançado\ApiPedidos\ApiPedidos.Infra.EventBus\bin\Debug\net7.0\ApiPedidos.Infra.EventBus.dll
+C:\Uindson\TI\DotNet_Avançado\ApiPedidos\ApiPedidos.Infra.EventBus\bin\Debug\net7.0\ApiPedidos.Infra.EventBus.pdb
+C:\Uindson\TI\DotNet_Avançado\ApiPedidos\ApiPedidos.Infra.EventBus\bin\Debug\net7.0\ApiPedidos.Application.dll
+C:\Uindson\TI\DotNet_Avançado\ApiPedidos\ApiPedidos.Infra.EventBus\bin\Debug\net7.0\ApiPedidos.Application.pdb
+C:\Uindson\TI\DotNet_Avançado\ApiPedidos\ApiPedidos.Infra.EventBus\obj\Debug\net7.0\ApiPedidos.Infra.EventBus.csproj.AssemblyReference.cache
+C:\Uindson\TI\DotNet_Avançado\ApiPedidos\ApiPedidos.Infra.EventBus\obj\Debug\net7.0\ApiPedidos.Infra.EventBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Uindson\TI\DotNet_Avançado\ApiPedidos\ApiPedidos.Infra.EventBus\obj\Debug\net7.0\ApiPedidos.Infra.EventBus.AssemblyInfoInputs.cache
+C:\Uindson\TI\DotNet_Avançado\ApiPedidos\ApiPedidos.Infra.EventBus\obj\Debug\net7.0\ApiPedidos.Infra.EventBus.AssemblyInfo.cs
+C:\Uindson\TI\DotNet_Avançado\ApiPedidos\ApiPedidos.Infra.EventBus\obj\Debug\net7.0\ApiPedidos.Infra.EventBus.csproj.CoreCompileInputs.cache
+C:\Uindson\TI\DotNet_Avançado\ApiPedidos\ApiPedidos.Infra.EventBus\obj\Debug\net7.0\ApiPedidos.Infra.EventBus.csproj.CopyComplete
+C:\Uindson\TI\DotNet_Avançado\ApiPedidos\ApiPedidos.Infra.EventBus\obj\Debug\net7.0\ApiPedidos.Infra.EventBus.dll
+C:\Uindson\TI\DotNet_Avançado\ApiPedidos\ApiPedidos.Infra.EventBus\obj\Debug\net7.0\refint\ApiPedidos.Infra.EventBus.dll
+C:\Uindson\TI\DotNet_Avançado\ApiPedidos\ApiPedidos.Infra.EventBus\obj\Debug\net7.0\ApiPedidos.Infra.EventBus.pdb
+C:\Uindson\TI\DotNet_Avançado\ApiPedidos\ApiPedidos.Infra.EventBus\obj\Debug\net7.0\ref\ApiPedidos.Infra.EventBus.dll
+C:\Uindson\TI\DotNet_Avançado\ApiPedidos\ApiPedidos.Infra.EventBus\bin\Debug\net7.0\ApiPedidos.Domain.dll
+C:\Uindson\TI\DotNet_Avançado\ApiPedidos\ApiPedidos.Infra.EventBus\bin\Debug\net7.0\ApiPedidos.Domain.pdb
